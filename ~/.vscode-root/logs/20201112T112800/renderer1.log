@@ -1,0 +1,72 @@
+[2020-11-12 13:37:08.402] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-12 13:37:21.515] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-12 13:37:26.773] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-12 13:43:46.746] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-12 13:43:50.745] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-12 14:00:47.624] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-12 14:00:51.451] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-12 14:08:40.329] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70

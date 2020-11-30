@@ -1,0 +1,269 @@
+Loaded bundled typescript@3.9.3.
+Vetur initialized
+[Error - 13:25:22] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 13:25:22] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 13:26:47] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 13:26:47] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 13:26:48] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 13:26:48] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 13:26:48] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 13:26:48] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 13:26:48] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 13:32:08] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:32:11] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:32:25] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:08] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:08] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:08] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:08] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:13] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:14] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:14] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:16] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:18] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:18] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:21] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:22] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:22] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:22] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:26] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:27] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:27] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:33] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:35] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:35] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:37] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:37] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:37] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:43] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:37:44] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:38:48] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:38:49] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:38:52] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:38:53] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:39:48] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:41:41] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:42:18] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:43:46] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:43:46] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:43:47] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:43:48] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:43:49] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:43:50] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:43:51] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:43:51] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:46:28] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:46:28] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 13:54:54] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 14:04:09] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 14:04:12] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 14:04:15] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 14:04:17] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 14:04:21] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 14:05:08] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 14:05:08] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 14:05:10] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 14:05:10] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 14:05:12] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 14:05:12] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 14:05:12] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 14:05:13] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 14:05:13] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 14:05:14] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 14:05:20] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 14:05:34] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 14:05:34] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 14:05:34] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 14:05:34] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 14:05:35] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 14:05:35] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'isIncomplete' of undefined
+  Code: -32603 
+[Error - 14:08:56] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 14:08:56] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 14:10:14] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 14:10:14] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 14:10:14] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 14:10:16] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 14:49:55] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 14:49:56] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 14:49:57] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 14:49:57] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 14:50:16] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 
+[Error - 15:05:39] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Cannot read property 'kind' of undefined
+  Code: -32603 

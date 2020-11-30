@@ -1,0 +1,428 @@
+[2020-11-11 10:57:24.875] [exthost] [info] extension host started
+[2020-11-11 10:57:25.032] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-11-11 10:57:25.033] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-11-11 10:57:25.044] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-11-11 10:57:25.044] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-11-11 10:57:25.077] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-11 10:57:25.077] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-11-11 10:57:25.123] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-11-11 10:57:25.124] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-11-11 10:57:25.134] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-11-11 10:57:25.134] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-11-11 10:57:25.138] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-11-11 10:57:25.138] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-11-11 10:57:25.147] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-11-11 10:57:25.147] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-11-11 10:57:25.149] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets {"startup":true,"extensionId":{"value":"2gua.rainbow-brackets","_lower":"2gua.rainbow-brackets"},"activationEvent":"*"}
+[2020-11-11 10:57:25.149] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/2gua.rainbow-brackets-0.0.6/out/src/extension
+[2020-11-11 10:57:25.150] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2020-11-11 10:57:25.150] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/christian-kohler.path-intellisense-2.3.0/out/extension.js
+[2020-11-11 10:57:25.167] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2020-11-11 10:57:25.167] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2020-11-11 10:57:25.218] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-11-11 10:57:25.218] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2020-11-11 10:57:25.230] [exthost] [info] ExtensionService#_doActivateExtension spywhere.guides {"startup":true,"extensionId":{"value":"spywhere.guides","_lower":"spywhere.guides"},"activationEvent":"*"}
+[2020-11-11 10:57:25.230] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/spywhere.guides-0.9.3/out/extension
+[2020-11-11 10:57:25.489] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-11 10:57:25.489] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-11-11 10:57:25.529] [exthost] [info] eager extensions activated
+[2020-11-11 10:57:32.912] [exthost] [info] extension host started
+[2020-11-11 10:57:32.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-11-11 10:57:32.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-11-11 10:57:32.964] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-11-11 10:57:32.964] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-11-11 10:57:32.996] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-11 10:57:32.996] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-11-11 10:57:33.044] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-11-11 10:57:33.044] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-11-11 10:57:33.054] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-11-11 10:57:33.054] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-11-11 10:57:33.057] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-11-11 10:57:33.057] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-11-11 10:57:33.065] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-11-11 10:57:33.065] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-11-11 10:57:33.066] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets {"startup":true,"extensionId":{"value":"2gua.rainbow-brackets","_lower":"2gua.rainbow-brackets"},"activationEvent":"*"}
+[2020-11-11 10:57:33.066] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/2gua.rainbow-brackets-0.0.6/out/src/extension
+[2020-11-11 10:57:33.067] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2020-11-11 10:57:33.067] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/christian-kohler.path-intellisense-2.3.0/out/extension.js
+[2020-11-11 10:57:33.079] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2020-11-11 10:57:33.079] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2020-11-11 10:57:33.117] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-11-11 10:57:33.117] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2020-11-11 10:57:33.128] [exthost] [info] ExtensionService#_doActivateExtension spywhere.guides {"startup":true,"extensionId":{"value":"spywhere.guides","_lower":"spywhere.guides"},"activationEvent":"*"}
+[2020-11-11 10:57:33.128] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/spywhere.guides-0.9.3/out/extension
+[2020-11-11 10:57:33.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-11-11 10:57:33.307] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2020-11-11 10:57:33.400] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-11 10:57:33.400] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-11-11 10:57:33.527] [exthost] [info] eager extensions activated
+[2020-11-11 10:57:35.685] [exthost] [info] ExtensionService#_doActivateExtension hikerpig.vetur {"startup":false,"extensionId":{"value":"hikerpig.vetur","_lower":"hikerpig.vetur"},"activationEvent":"onLanguage:vue"}
+[2020-11-11 10:57:35.686] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/hikerpig.vetur-0.24.1/dist/client/vueMain
+[2020-11-11 10:57:35.781] [exthost] [info] ExtensionService#_doActivateExtension octref.vetur {"startup":false,"extensionId":{"value":"octref.vetur","_lower":"octref.vetur"},"activationEvent":"onLanguage:vue"}
+[2020-11-11 10:57:35.781] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/octref.vetur-0.29.1/dist/client/vueMain
+[2020-11-11 10:57:35.901] [exthost] [error] Activating extension octref.vetur failed due to an error:
+[2020-11-11 10:57:35.903] [exthost] [error] Error: command 'vetur.generateGrammar' already exists
+	at _.registerCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:629:946)
+	at Object.registerCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:911:119)
+	at /root/.vscode/extensions/octref.vetur-0.29.1/dist/client/vueMain.js:32:52
+	at Generator.next (<anonymous>)
+	at fulfilled (/root/.vscode/extensions/octref.vetur-0.29.1/dist/client/vueMain.js:5:58)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-11-11 10:58:36.851] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2020-11-11 10:58:36.852] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2020-11-11 10:58:37.413] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-11-11 10:58:37.413] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2020-11-11 11:07:43.475] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-11-11 11:07:43.475] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-11-11 11:07:43.520] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2020-11-11 11:07:43.520] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-11-11 11:08:29.945] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 11:08:29.947] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 11:08:39.988] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 11:08:39.988] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 11:19:34.597] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 11:19:34.599] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 11:22:26.902] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 11:22:26.902] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 11:23:31.920] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 11:23:31.920] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 11:23:37.497] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 11:23:37.498] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:412:9)
+[2020-11-11 11:28:38.993] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 11:28:38.994] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 11:38:20.469] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 11:38:20.469] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 11:38:31.082] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 11:38:31.083] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 11:44:53.407] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 11:44:53.409] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 11:45:02.587] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 11:45:02.587] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 11:45:08.743] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 11:45:08.743] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 11:45:12.119] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 11:45:12.119] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 11:46:56.406] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 11:46:56.406] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 12:00:28.809] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 12:00:28.809] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 12:00:32.168] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 12:00:32.168] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 12:04:57.007] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 12:04:57.007] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 12:05:26.334] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 12:05:26.334] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 12:09:31.526] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 12:09:31.526] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 12:29:26.859] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 12:29:26.859] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 12:29:29.673] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 12:29:29.673] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 13:01:03.590] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 13:01:03.590] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 13:01:33.203] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 13:01:33.203] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 13:02:20.672] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 13:02:20.672] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 13:06:20.590] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onDebugInitialConfigurations"}
+[2020-11-11 13:06:20.590] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-11-11 13:06:20.831] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug2 {"startup":false,"extensionId":{"value":"ms-vscode.node-debug","_lower":"ms-vscode.node-debug"},"activationEvent":"onDebugInitialConfigurations"}
+[2020-11-11 13:06:20.831] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.node-debug2/out/src/extension
+[2020-11-11 13:06:20.844] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug {"startup":false,"extensionId":{"value":"ms-vscode.node-debug","_lower":"ms-vscode.node-debug"},"activationEvent":"onDebugInitialConfigurations"}
+[2020-11-11 13:06:20.845] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.node-debug/dist/extension.js
+[2020-11-11 13:06:21.591] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2020-11-11 13:06:21.591] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-server-ready/dist/extension
+[2020-11-11 13:13:06.426] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 13:13:06.426] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 13:36:57.510] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 13:36:57.510] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 13:47:57.032] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 13:47:57.032] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 13:48:00.144] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 13:48:00.144] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 13:59:01.585] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 13:59:01.585] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 13:59:03.208] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 13:59:03.208] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 14:16:18.506] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 14:16:18.507] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 14:16:25.977] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 14:16:25.977] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 15:42:49.690] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 15:42:49.690] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-11-11 15:42:51.671] [exthost] [error] [hikerpig.vetur] provider FAILED
+[2020-11-11 15:42:51.671] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:441:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:431)
+	at asSymbolInformation (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /root/.vscode/extensions/hikerpig.vetur-0.24.1/node_modules/vscode-languageclient/lib/client.js:1088:70

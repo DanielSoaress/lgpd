@@ -1,0 +1,9 @@
+[2020-11-12 11:28:04.722] [sharedprocess] [info] main {"machineId":"d0869748d8077cb45fe9c4cb5466776fd50c9c45f1d75ef8ddc6dfc9801951ef","windowId":2}
+[2020-11-12 11:28:06.467] [sharedprocess] [info] Deleted from disk octref.vetur /root/.vscode/extensions/octref.vetur-0.29.1
+[2020-11-12 11:28:08.287] [sharedprocess] [info] Installing extension: octref.vetur
+[2020-11-12 11:28:15.590] [sharedprocess] [info] Downloaded extension: octref.vetur /var/www/project/lgpd/~/.vscode-root/CachedExtensionVSIXs/octref.vetur-0.30.1
+[2020-11-12 11:28:17.321] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.octref.vetur-0.30.1: octref.vetur
+[2020-11-12 11:28:17.321] [sharedprocess] [info] Renamed to /root/.vscode/extensions/octref.vetur-0.30.1
+[2020-11-12 11:28:17.322] [sharedprocess] [info] Installation completed. octref.vetur
+[2020-11-12 11:28:17.336] [sharedprocess] [info] Extensions installed successfully: octref.vetur
+[2020-11-12 11:28:44.745] [sharedprocess] [info] Starting to clean up unused language packs.
