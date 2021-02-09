@@ -1,6 +1,6 @@
 <template>
   <div id="app" class="h-100 w-100">
-    <Header />
+    <Header v-show="header"/>
     <router-view class=" animate__animated animate__fadeIn"></router-view>
   </div>
 </template>
@@ -9,8 +9,28 @@
 import Header from './components/Header'
 
 export default {
-  components: { Header, }
+  components: { Header },
+  data() {
+    return{
+      header: true
+    }
+  },
+  created: function(){
+    this.checkHeader();
+  },
+  methods: {
+    checkHeader: function(){
+      const block = ["/requirement", "/adm"];
+      block.indexOf(this.$route.path.toLowerCase()) > -1 ? this.header = false : this.header = true;
+    },
+  },
+  watch: {
+     $route() {
+      this.checkHeader();
+    }
+  }
 }
+
 </script>
 
 <style>

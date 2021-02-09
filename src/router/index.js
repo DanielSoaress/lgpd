@@ -1,10 +1,10 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
+import Store from '@/store/store.js'
 import Home from '../views/Home.vue'
-import Singin from '../views/Singin.vue'
-import Search from '../views/Search.vue'
 import Requirement from '../views/Requirement.vue'
-import Student from '../views/Student.vue'
+import Admin from '../views/Admin.vue'
+import LoginAdmin from '../views/Login.vue'
 
 Vue.use(VueRouter)
 
@@ -15,25 +15,24 @@ const routes = [
     component: Home,
   },
   {
-    path: '/singin',
-    name: 'Singin',
-    component: Singin
-  },
-  {
-    path: '/search',
-    name: 'Search',
-    component: Search
-  },
-  {
     path: '/requirement',
     name: 'Requirement',
     component: Requirement
   },
   {
-    path: '/student',
-    name: 'Student',
-    component: Student
+    path: '/paneladm',
+    name: 'Admin',
+    component: Admin
   },
+  {
+    path: '/adm',
+    name: 'Login',
+    component: LoginAdmin
+  },
+  { 
+    path: '*',
+    name: '404',
+  }
 ]
 
 const router = new VueRouter({
@@ -41,5 +40,17 @@ const router = new VueRouter({
   base: process.env.BASE_URL,
   routes
 })
+
+router.beforeEach((to, from, next) => {
+  if (to.name == 'Admin' && Store.getters.getAuthenticated == false) {
+    next({ name: 'Login' })
+  } else {
+    next()
+  }
+  if (to.name == '404') {
+    next({ name: 'Home' })
+  }
+});
+
 
 export default router
