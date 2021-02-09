@@ -71,18 +71,13 @@ export default {
           this.loading = true;
           await this.axios.post(this.$store.getters.getBaseUrl + "api/login", { username: this.user.username, password_plain: this.user.password })
           .then(response => {  this.$store.dispatch('authenticated', response.data.data.authenticated)});
-          //Tô aqui - Alterando Login
-          if(this.$store.getters.getAuthenticated) {
-            this.axios.get(this.$store.getters.getBaseUrl + "api/user/" + this.user.username)
-            .then(response => { console.log(response)});
-          }
-          /*this.singin();
+          this.singin();
           if (this.$store.getters.getAuthenticated) {
             this.$store.dispatch('user', this.user.username);
             this.$router.push('/paneladm');
           } else {
             this.alert('error', 'Usuário ou senha incorreto');
-          }*/
+          }
           this.loading = false;
 
         }
